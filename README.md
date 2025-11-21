@@ -134,7 +134,7 @@ SDK Android API 21 (Android 5.0) minimum
 Cloner le repository
 
 bash
-git clone https://github.com/votre-username/jeu-xo-android.git
+git clone https://github.com/sofianeziouziou/App_Mobile_Jeu_X_O.git
 Ouvrir dans Android Studio
 
 File → Open → Sélectionner le dossier du projet
