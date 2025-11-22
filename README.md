@@ -1,6 +1,3 @@
-CONTENU POUR VOTRE PDF
-Copiez tout le texte ci-dessous et collez-le dans Word ou Google Docs :
-
 JEU XO - APPLICATION ANDROID
 Documentation Complète du Projet
 
